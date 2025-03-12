@@ -3,7 +3,7 @@ This is My New Account.
 
 
 # Teacher
-pratiksha mam
+Pratiksha mam
 
 # Student
 Vivek Kumar Giri
